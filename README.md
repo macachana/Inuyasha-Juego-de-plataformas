@@ -41,5 +41,5 @@ Al capturar este item especial, el personaje, si es que perdio una vida, puede r
 
 
 # VIDEO DE JUEGO
-[link](https://youtu.be/bIFbK66BXgY)
+[LINK AL VIDEO DE YOUTUBE](https://youtu.be/bIFbK66BXgY)
 
