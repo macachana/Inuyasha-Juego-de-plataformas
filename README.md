@@ -1,3 +1,8 @@
+# DATOS DE LA ALUMNA
+## NOMBRE Y APELLIDO : MACARENA CHANAMPA
+## PRIMER AÑO DIVISION B
+## SEGUNDO PARCIAL DE LABORATORIO
+
 # DESCRIPCION
 ### juego de plataformas inspirado en el anime creado por Rumiko Takahashi
 ### cada nivel representa una aventura diferente de inuyasha 
